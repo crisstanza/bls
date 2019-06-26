@@ -1,0 +1,6 @@
+#
+# a Better LS
+#
+# Installation: sudo ln -s /scripts/bls /bin/
+#
+clear ; pwd ; echo ; ls -lah "$@" ; echo
